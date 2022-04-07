@@ -12,7 +12,7 @@
   --red: hsl(0, 87%, 67%);
 
   /* Naturel */
-  --Gray: hsl(0, 0%, 75%);
+  --Gray: hsl(0, 0%, 97%);
   --Grayish-violet: hsl(257, 7%, 63%);
   --Very-dark-Blue: hsl(255, 11%, 22%);
   --Very-dark-violet: hsl(260, 8%, 14%);
@@ -110,6 +110,7 @@ form input {
   margin-top: 70px;
   z-index: 1;
   position: relative;
+  border: none;
 }
 
 .icon {
